@@ -1,12 +1,12 @@
 {
   "payload": {
-    "version": "3.3.0",
-    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.0/tableviewer-3.3.0.zip",
-    "sha256": "aebdf94002dcab031e6c8e140cfa0beb7bddfdda42f72f46fb61043a1a5eaa11",
-    "size": 27036178,
-    "notes": "Initial compiled release with in-app updater."
+    "version": "3.3.1",
+    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.1/tableviewer-3.3.1.zip",
+    "sha256": "73d1837f284b42d0949762ded04b8d491de08c406e0c9c8da3fbccf0bfc9cbfa",
+    "size": 27037061,
+    "notes": "Canary update-button test."
   },
   "key_id": "2026-a",
   "alg": "ed25519",
-  "sig": "HiYNbv9rdZTpJBSQIzdaaCo0vhvX7Ddvxcl9dYB4wggDFhVe05XIpbtxTn/hGGfC8gmCKKZfAOKLTDuLRwN8DQ=="
+  "sig": "aZIYtg88nluuGFN8JueE1R9WRw6AT06AIS6VsDe5CzQrta+sO8VThruazPb0Yoi+U9eSvyGLh5p7G9Z94qONDg=="
 }
