@@ -1,12 +1,12 @@
 {
   "payload": {
-    "version": "3.3.4",
-    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.4/tableviewer-3.3.4.zip",
-    "sha256": "4f0403472d60f7cc10306877a87f29385017fa12a3adec6d837f5b8d5654b194",
-    "size": 27041459,
-    "notes": "Grid column sort (double-click header), is blank / is not blank filters, Filter Control retains input with a Reset button, multi-value filter cap raised to 500."
+    "version": "3.3.5",
+    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.5/tableviewer-3.3.5.zip",
+    "sha256": "17590f36715d2acc4801eb48199ada6e6e86c8c7f365957223f5bd69336725a1",
+    "size": 27042615,
+    "notes": "Grid column sort (double-click header), is blank / is not blank filters, Filter Control retains input with a Reset button, multi-value filter cap raised to 500. Console/laptop installs now point to update.bat instead of failing with a misleading package-validation error."
   },
   "key_id": "2026-a",
   "alg": "ed25519",
-  "sig": "mC6yS7P9LmWaY6Da0QpMdiKo1LpCnvWgMBTxbJwmviuImxX20VOBRY4F7FReQ/QacZbDQZfpsqqy+TByZwKnCw=="
+  "sig": "xIfqG1tfCbqDzq15UTW506pbRXUqLM2eRorigcaEcaVRbG+4bQ1KRbIBb5daQK/+DWAkmkglYoL5X8+gDjqVCQ=="
 }
