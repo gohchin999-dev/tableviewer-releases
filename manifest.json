@@ -1,12 +1,12 @@
 {
   "payload": {
-    "version": "3.3.3",
-    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.3/tableviewer-3.3.3.zip",
-    "sha256": "ca404936a9a6e536296dc82e1f0058b5dc98963315c061dc95ca8e2f55cbbdc7",
-    "size": 27036819,
-    "notes": "Fix update-complete banner (defer to Current Version header)."
+    "version": "3.3.4",
+    "url": "https://github.com/gohchin999-dev/tableviewer-releases/releases/download/v3.3.4/tableviewer-3.3.4.zip",
+    "sha256": "4f0403472d60f7cc10306877a87f29385017fa12a3adec6d837f5b8d5654b194",
+    "size": 27041459,
+    "notes": "Grid column sort (double-click header), is blank / is not blank filters, Filter Control retains input with a Reset button, multi-value filter cap raised to 500."
   },
   "key_id": "2026-a",
   "alg": "ed25519",
-  "sig": "qxmW1vY9q1gA5JYMxhYKtvQbG2+nL9c7HqSEotKAvB3Ia4JUg/COpxkwJv27bdeKssbY5TuybOyjmeuHJRILCw=="
+  "sig": "mC6yS7P9LmWaY6Da0QpMdiKo1LpCnvWgMBTxbJwmviuImxX20VOBRY4F7FReQ/QacZbDQZfpsqqy+TByZwKnCw=="
 }
